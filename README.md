@@ -227,6 +227,9 @@ El proyecto no incluye juegos ni contenido propiedad de terceros.
 https://github.com/drakmor/ShadowMountPlus
 
 https://github.com/drakmor/ampr_emu
+
+https://github.com/drakmor/ampr_emu/blob/main/docs/ASSET_PACK_WORKFLOW_EN.md
+
 Creador del método Original agradecimientos especiales
 
 ### ps5-dump-forge — quer3q
