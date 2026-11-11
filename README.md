@@ -224,6 +224,11 @@ El proyecto no incluye juegos ni contenido propiedad de terceros.
 
 ## Créditos
 
+https://github.com/drakmor/ShadowMountPlus
+
+https://github.com/drakmor/ampr_emu
+Creador del método Original agradecimientos especiales
+
 ### ps5-dump-forge — quer3q
 
 Proyecto de referencia y base técnica importante para el trabajo con dumps de PS5 y empaquetado AMPR ZSTD.
